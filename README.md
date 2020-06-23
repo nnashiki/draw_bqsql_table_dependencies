@@ -1,0 +1,2 @@
+# draw_bqsql_table_dependencies
+bqのテーブルの依存関係を描くやつ
